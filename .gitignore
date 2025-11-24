@@ -1,0 +1,65 @@
+# ============================
+# Unreal Engine .gitignore
+# ============================
+
+# Ignore intermediate build files
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Ignore build output
+Binaries/
+Build/Android/
+Build/IOS/
+
+# Ignore Visual Studio cache
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Ignore user-specific files
+*.opensdf
+*.suo
+*.sdf
+*.user
+*.userprefs
+*.log
+*.tlog
+
+# Ignore Generated project files
+*.xcodeproj/
+*.xcworkspace/
+*.gizmo
+*.DS_Store
+
+# Ignore config backups
+*.ini.tmp
+Config/Localization/*.archive
+Config/Localization/*.manifest
+
+# Ignore auto-generated files
+Content/StarterContent/**
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# OPTIONAL — İstersen engine'i tamamen ignore edebilirsin
+# Eğer Engine/ klasörü projede yoksa boşver
+Engine/
+
+# OPTIONAL — Crash / Autosave ignore
+Saved/Autosaves/
+Saved/Backups/
+Saved/Logs/
+Saved/Temp/
+
+# Ignore collections and cached assets
+*.collection
+*.cache
+
+# Ignore Rider / JetBrains
+.idea/
+
+# Unreal user-specific config files
+Saved/
+Config/Windows/
+Config/WindowsEditor/

@@ -1,0 +1,13 @@
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.bmp"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.fbx"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.uasset"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.mp3"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.jpeg"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.mp4"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.mov"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.umap"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.upk"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.wav"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.png"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.jpg"" filter=lfs diff=lfs merge=lfs -text
+"git[[:space:]]lfs[[:space:]]track[[:space:]]"*.tga"" filter=lfs diff=lfs merge=lfs -text
